@@ -1,6 +1,6 @@
 ## Hey! I'm James (Saladuh) 👋
 
-I'm a Gopher (I use and love Golang) and Software Engineer. I being presented with complex problems and trying to solve them.
+I'm a Gopher (I use and love Golang) and Software Engineer. I love being presented with complex problems and trying to solve them.
 
 - 🔭 I’m currently working on Kubernetes platforms and tooling at Webjet
 - 🌱 I’m currently learning:
