@@ -7,5 +7,5 @@ I'm a Gopher (I use and love Golang) and Software Engineer. I love being present
     - HTMX and Go templating.
     - I'm also having a blast building Redis from scratch using [CodeCrafters](https://codecrafters.io)
 - 📖 I’m currently reading:
-  - [100 Mistakes in Go](https://100go.co/book/)
+  - [100 Go Mistakes and How to Avoid Them](https://100go.co/book/)
 - ⚡ Current goals: I'm trying to contribute more to Open Source :)
